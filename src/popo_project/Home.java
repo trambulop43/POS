@@ -7,7 +7,7 @@ package popo_project;
 
 /**
  *
- * @author FAITH
+ * @author Trambulo,Paul Domenic
  */
 import java.awt.Toolkit;
 import java.awt.event.WindowEvent;
